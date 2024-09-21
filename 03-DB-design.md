@@ -3,3 +3,30 @@
 - Schema design: star - snowflake 
 - Normalization and denormalization 
 - Introduction to data warehouses and data marts
+
+#### Data Centre, Data Warehouse, Data Mart
+- Justification of denormalization
+- Data Warehouse, Data Mart
+- Maintaining relational modeling principles through denormalization
+- Modeling according to user needs
+- Semantics and maintainability
+- Descendant projects and ancestor projects
+
+#### Hierarchical modeling of dimensions
+- Rules for constructing a star model
+- Stars and snowflakes
+- From star to OLAP cube
+- Calculating volumes
+- Anticipating functional evolutions
+
+#### Modeling indicators
+- Defining indicators by business area
+- Aggregating indicators
+- Pre-calculation and aggregate tables in relational
+- Indicator dimension of a hypercube
+- Hierarchical aggregation and preparation of aggregated navigation
+
+#### Functional problems
+- Data validation
+- Historical data and its techniques
+- Typical models according to user needs

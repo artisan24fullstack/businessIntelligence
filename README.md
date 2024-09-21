@@ -32,7 +32,7 @@ A brief description of what this project does and who it's for
 - Normalization and denormalization 
 - Introduction to data warehouses and data marts
 
-### Data collection and integration (Data prep):
+### Data collection and integration (Data grep):
 - Data sources: databases, Excel files, APIs, social media... 
 - ETL (Extract, Transform, Load) with tools like Talend or SSIS
 
