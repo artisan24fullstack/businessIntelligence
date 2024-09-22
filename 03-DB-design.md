@@ -4,6 +4,14 @@
 - Normalization and denormalization 
 - Introduction to data warehouses and data marts
 
+- [drawSQL](https://drawsql.app/)
+Beautiful database diagrams Design, visualize and collaborate on entity relationship diagrams for your databases
+
+- [dbdiagram](https://dbdiagram.io/home)
+Draw Entity-Relationship Diagrams, Painlessly
+A free, simple tool to draw ER diagrams by just writing code.
+Designed for developers and data analysts.
+
 #### Data Centre, Data Warehouse, Data Mart
 - Justification of denormalization
 - Data Warehouse, Data Mart
