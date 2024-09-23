@@ -76,7 +76,7 @@ Key points to consider:
 BI-intro 
 DB-sql
 DB-design
-Data-prep
+Data-grep
 BI-analytics
 Data-viz
 BI-PM
