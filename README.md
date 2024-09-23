@@ -83,50 +83,62 @@ BI-PM
 BI-project
 ----
 
-- Introduction to Data Careers
-This module aims to present the various roles and professions related to working with data. It covers:
+#### Introduction to Data Careers
+- This module aims to present the various roles and professions related to working with data. It covers:
 
+```
 The main careers in the data field: analysts, data scientists, developers, etc.
 Required skills and qualifications for these positions
 Professional context and current challenges in the field
+```
 
-- Data Modeling and Manipulation
-This part focuses on the technical aspects of data management:
-
+#### Data Modeling and Manipulation
+- This part focuses on the technical aspects of data management:
+- 
+```
 Relational modeling and denormalization: fundamental database concepts
 Structured data manipulation: CRUD operations, SQL queries
 Dimensional modeling and data warehousing: approach for historical analysis
 Management and administration of database management systems (DBMS)
+```
 
-- Business Intelligence (BI) and Data Analysis
-This module addresses aspects of data analysis and visualization:
+#### Business Intelligence (BI) and Data Analysis
+- This module addresses aspects of data analysis and visualization:
 
+```
 Principles of business intelligence
 ETL (Extraction, Transformation, Load) with SQL Server, SSIS
 Creation and management of OLAP cubes with SQL Server Analysis Services (SSAS)
 Using Power BI for data analysis and visualization
 Introduction to QlikSense and Tableau as alternatives to Power BI
 Practical project implementing a BI solution
+```
 
-- Big Data and Development for Data
-This part explores modern technologies for massive data processing:
+#### Big Data and Development for Data
+- This part explores modern technologies for massive data processing:
 
+```
 Introduction to Apache Spark for distributed computing
 MongoDB as a NoSQL database system
 Python development specifically for data processing
 Machine learning and data mining algorithms with Python
+```
 
-- Project Management and Process Modeling
-This module covers organizational and methodological aspects:
+#### Project Management and Process Modeling
+- This module covers organizational and methodological aspects:
 
+```
 Agile project management (AGILE)
 Modeling business processes with BPMN (Business Process Model and Notation)
 Projects and Accompaniment
 The final parts of the program focus on practice and support:
+```
 
-Individual project developing a BI solution
+#### Individual project developing a BI solution
+```
 Personalized pedagogical support to reinforce knowledge
 Training in soft skills necessary for finding employment in the data sector
+```
 
 
 
