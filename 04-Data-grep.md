@@ -8,7 +8,17 @@
 - ETLs
 - Choosing feeding modes
 - Pivots and other standard transformations
-  
+
+#### Business Intelligence (BI) and Data Analysis
+- This module addresses aspects of data analysis and visualization:
+
+```
+* Principles of business intelligence
+* ETL (Extraction, Transformation, Load) with SQL Server, SSIS
+* Practical project implementing a BI solution
+```
+#### Resources for learning
+
 ##### Tools Talend
  - [MOOC Coursera Talend](https://www.coursera.org/partners/talend)
 

@@ -4,4 +4,13 @@
 - Basic SQL: SELECT, INSERT, UPDATE, DELETE 
 - SQL functions, joins, subqueries
 
-https://grafikart.fr/tutoriels/sql
+#### Data Manipulation
+- This part focuses on the technical aspects of data management:
+  
+```
+* Structured data manipulation: CRUD operations, SQL queries
+```
+
+##### Resources for learning
+
+- https://grafikart.fr/tutoriels/sql
