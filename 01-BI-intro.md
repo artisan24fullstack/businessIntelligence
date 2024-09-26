@@ -12,7 +12,7 @@ The main careers in the data field: analysts, data scientists, developers, etc.
 Required skills and qualifications for these positions
 Professional context and current challenges in the field
 ```
-##### Introduc#tion
+##### Introduction
 - Definition of the Data Analyst profession
 - Definition of the necessary steps for data analysis
 - Presentation of the various software classes related to the Data Analyst profession

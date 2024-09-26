@@ -11,6 +11,9 @@
 - [drawSQL](https://drawsql.app/)
 Beautiful database diagrams Design, visualize and collaborate on entity relationship diagrams for your databases
 
+- [drawDB](https://drawdb.vercel.app/)
+Online database entity-realtionship diagram editor, data modeler, and SQL generator. Design, visualize, and export scripts without an account and completely free of charge
+
 - [dbdiagram](https://dbdiagram.io/home)
 Draw Entity-Relationship Diagrams, Painlessly
 A free, simple tool to draw ER diagrams by just writing code.
