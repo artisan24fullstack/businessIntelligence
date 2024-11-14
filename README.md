@@ -36,19 +36,19 @@ Key points to consider:
 - Basic SQL: SELECT, INSERT, UPDATE, DELETE 
 - SQL functions, joins, subqueries
 
-### Advanced database modeling (DB design):
+### Advanced database modeling ([DB design](https://github.com/artisan24fullstack/businessIntelligence/blob/main/03-DB-design.md)):
 - Schema design: star - snowflake 
 - Normalization and denormalization 
 - Introduction to data warehouses and data marts
 
-### Data collection and integration (Data grep):
+### Data collection and integration ([Data grep](https://github.com/artisan24fullstack/businessIntelligence/blob/main/04-Data-grep.md)):
 - Data sources: databases, Excel files, APIs, social media... 
 - ETL (Extract, Transform, Load) with tools like Talend or SSIS
 
 ##### Tools Talend
 ##### Tools SSIS
 
-### Advanced data analysis using BI tools (BI analytics):
+### Advanced data analysis using BI tools ([BI analytics](https://github.com/artisan24fullstack/businessIntelligence/blob/main/05-BI-analytics.md)):
 - Using tools such as Power BI, Tableau, or QlikView 
 - Creating dashboards, reports, and ad-hoc analyses 
 - Multidimensional analysis with OLAP cubes 
@@ -58,7 +58,7 @@ Key points to consider:
 ##### Tools Tableau
 ##### Tools QlikView 
 
-### Data visualization (Data viz):
+### Data visualization ([Data viz](https://github.com/artisan24fullstack/businessIntelligence/blob/main/06-Data-viz.md)):
 - Basic principles of data visualization 
 - Specific tools and libraries like D3.js
 
