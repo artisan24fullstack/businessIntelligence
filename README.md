@@ -26,12 +26,12 @@ Key points to consider:
 - BI project management and best practices:
 - Practical Business Intelligence project:
 
-### Introduction to Business Intelligence (BI intro):
+### Introduction to Business Intelligence ([BI intro](https://github.com/artisan24fullstack/businessIntelligence/blob/main/01-BI-intro.md)):
 - What is BI? 
 - Importance of BI in current business 
 - Overview of the BI process
 
-### Fundamental SQL and Relational (SQL basics):
+### Fundamental SQL and Relational ([SQL basics](https://github.com/artisan24fullstack/businessIntelligence/blob/main/02-DB-sql.md)):
 - Introduction to relational databases 
 - Basic SQL: SELECT, INSERT, UPDATE, DELETE 
 - SQL functions, joins, subqueries
